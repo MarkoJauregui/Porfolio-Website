@@ -1,46 +1,50 @@
 export const projects = [
-  {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 0,
-  },
-  {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 1,
-  },
-  {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 2,
-  },
-  {
-    title: 'Unichat',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 3,
-  },
+	{
+		title: 'Yukiko Studios',
+		description:
+			'Using React and Solidity smart contracts, Yukiko Studios is an app that allows you to send messages along with GIFs in the Ethereum Ropsten Testnet.',
+		image: '/images/1.png',
+		tags: ['React', 'Solidity', 'TDD'],
+		source: 'https://google.com', //Add Once Deployed
+		visit: 'https://github.com/Misty-Dev/yukikoweb3',
+		id: 0,
+	},
+	{
+		title: 'Hypebeast NFT Collection',
+		description:
+			'NFT Collection made for 72dpi. Exotic animals becoming the Hypebeasts they truly are.',
+		image: '/images/2.png',
+		tags: ['Solidity', 'ERC-1155'],
+		source: 'https://google.com',
+		visit: 'https://github.com/Misty-Dev/hypebeast-sc',
+		id: 1,
+	},
+	{
+		title: 'Kickstart Dapp',
+		description:
+			'Kickstart is a dapp inspired by the famous website Kickstarter, improving on the created by them. Using Solidity Smart contracts, you can verify that the people getting funded are not doing irresponsible things unrelated to the project by using a voting system in which the investors are in control of whether transactions go through or not.',
+		image: '/images/3.jpg',
+		tags: ['React', 'Solidity', 'TDD'],
+		source: 'https://google.com',
+		visit: 'https://github.com/Misty-Dev/kickstart',
+		id: 2,
+	},
+	{
+		title: 'Web3 Sisters',
+		description:
+			'This is a landing page for the Web3 Sisters (Yet to be deployed)',
+		image: '/images/4.jpg',
+		tags: ['React'],
+		source: 'https://google.com',
+		visit: 'https://github.com/Misty-Dev/web3_sisters',
+		id: 3,
+	},
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+	{ year: 2017, text: 'Started my journey' },
+	{ year: 2018, text: 'Worked as a freelance developer' },
+	{ year: 2019, text: 'Founded JavaScript Mastery' },
+	{ year: 2020, text: 'Shared my projects with the world' },
+	{ year: 2021, text: 'Started my own platform' },
 ];
