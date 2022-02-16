@@ -21,7 +21,9 @@ const Hero = () => (
 				related I'm here to help!
 			</SectionText>
 			<Button
-				onClick={() => (window.location = 'mailto:markojauregui2002@gmail.com')}
+				onClick={() =>
+					(window.location.href = 'mailto:markojauregui2002@gmail.com')
+				}
 			>
 				Contact me
 			</Button>
