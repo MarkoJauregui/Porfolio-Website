@@ -67,9 +67,9 @@ const Timeline = () => {
 		<Section id="about">
 			<SectionTitle>My Learning</SectionTitle>
 			<SectionText>
-				After spending some time doing a Computer Science degree in college. I
-				decided that the best route for me to become a full fledged developer
-				was the self-taught way.
+				After spending some time studying Computer Science in college, I decided
+				that the most efficient route to becoming a full-fledged developer
+				was...the self-taught way.
 			</SectionText>
 			<CarouselContainer ref={carouselRef} onScroll={handleScroll}>
 				<>

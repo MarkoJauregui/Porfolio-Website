@@ -20,9 +20,9 @@ export const projects = [
 		id: 1,
 	},
 	{
-		title: 'Kickstart Dapp',
+		title: 'CrowdCoin Dapp',
 		description:
-			'Kickstart is a dapp inspired by the famous website Kickstarter, improving on the created by them. Using Solidity Smart contracts, you can verify that the people getting funded are not doing irresponsible things unrelated to the project by using a voting system in which the investors are in control of whether transactions go through or not.',
+			'CrowdCoin is a dapp inspired by the famous website Kickstarter, improving on concept they created. Using Solidity Smart contracts, you can verify that the people getting funded are not doing irresponsible things unrelated to the project by using a voting system in which the investors are in control of whether transactions go through or not.',
 		image: '/images/3.jpg',
 		tags: ['React', 'Solidity', 'TDD'],
 		source: 'https://google.com',

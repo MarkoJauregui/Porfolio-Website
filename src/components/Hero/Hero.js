@@ -12,13 +12,13 @@ const Hero = () => (
 	<Section row nopadding>
 		<LeftSection>
 			<SectionTitle main center>
-				Hello There! <br />
+				Hello World! <br />
 				I'm Marko Jauregui
 			</SectionTitle>
 			<SectionText>
-				I am a 20 year old self taught Full Stack Blockchain app developer from
-				Buenos Aires, Argentina. Be it Dapps, NFTs or anything web development
-				related I'm here to help!
+				I am a 20-year-old self-taught Full Stack Blockchain app developer from
+				Buenos Aires, Argentina. Be it Dapps, NFTs, or anything web development
+				related, I'm here to help!
 			</SectionText>
 			<Button
 				onClick={() =>

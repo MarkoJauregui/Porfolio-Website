@@ -28,8 +28,8 @@ const Footer = () => {
 				</LinkColumn>
 				<LinkColumn>
 					<LinkTitle>Email</LinkTitle>
-					<LinkItem href="mailto:markojauregui2002@gmail.com">
-						markojauregui2002@gmail.com
+					<LinkItem href="mailto:contact@markojauregui.com">
+						contact@markojauregui.com
 					</LinkItem>
 				</LinkColumn>
 			</LinkList>
