@@ -5,8 +5,8 @@ export const projects = [
 			'Using React and Solidity smart contracts, Yukiko Studios is an app that allows you to send messages along with GIFs in the Ethereum Ropsten Testnet.',
 		image: '/images/1.png',
 		tags: ['React', 'Solidity', 'TDD'],
-		source: 'https://google.com', //Add Once Deployed
-		visit: 'https://github.com/Misty-Dev/yukikoweb3',
+		visit: 'http://yukikostudios.com', //Add Once Deployed
+		source: 'https://github.com/Misty-Dev/yukikoweb3',
 		id: 0,
 	},
 	{
@@ -15,8 +15,8 @@ export const projects = [
 			'CrowdCoin is a dapp inspired by the famous website Kickstarter. Using Solidity Smart contracts, you can verify that the people getting funded are not doing irresponsible things unrelated to the project.',
 		image: '/images/3.jpg',
 		tags: ['React', 'Solidity', 'TDD'],
-		source: 'https://google.com',
 		visit: 'https://github.com/Misty-Dev/kickstart',
+		source: 'https://github.com/Misty-Dev/kickstart',
 		id: 2,
 	},
 	{
@@ -25,19 +25,19 @@ export const projects = [
 			'NFT Collection made for 72dpi. Exotic animals becoming the Hypebeasts they truly are.',
 		image: '/images/2.png',
 		tags: ['Solidity', 'ERC-1155'],
-		source: 'https://google.com',
-		visit: 'https://github.com/Misty-Dev/hypebeast-sc',
+		visit: 'https://testnets.opensea.io/collection/hypebeast-collection',
+		source: 'https://github.com/Misty-Dev/hypebeast-sc',
 		id: 1,
 	},
 
 	{
 		title: 'Web3 Sisters',
 		description:
-			'This is a landing page for the Web3 Sisters. NFT agents for the artists of the future. (Yet to be deployed)',
+			'This is a landing page for the Web3 Sisters. NFT agents for the artists of the future.	',
 		image: '/images/4.jpg',
-		tags: ['React'],
-		source: 'https://google.com',
-		visit: 'https://github.com/Misty-Dev/web3_sisters',
+		tags: ['React', 'SCSS'],
+		visit: 'http://web3sisters.com/',
+		source: 'https://github.com/Misty-Dev/web3-sisters',
 		id: 3,
 	},
 ];
